@@ -1,4 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/kanazw/dotfiles/.vim/bundle/vimproc'
 let g:netrw_dirhist_2='/Users/kanazw/Dropbox/Qiita/qiita_en/cheetsheet'
+let g:netrw_dirhist_3='/Users/kanazw/Dropbox/Documents/Book_notes/Philosophy/科学哲学の冒険'
+let g:netrw_dirhist_4='/Users/kanazw/Dropbox/Documents/University/Writing-3/Essay 1 Articles'
+let g:netrw_dirhist_5='/Users/kanazw/dotfiles'
+let g:netrw_dirhist_6='/Users/kanazw/.git'
+let g:netrw_dirhist_7='/Users/kanazw/Hello-World/.git'
+let g:netrw_dirhist_8='/Users/kanazw/.vim'
+let g:netrw_dirhist_9='/Users/kanazw/.vagrant'
